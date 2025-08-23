@@ -1,31 +1,69 @@
-## Hello World! 👋
+<p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
+<h1 align="center">Hi 👋, I'm Leoncio Duvan Zavaleta Moctezuma</h1>
+<h3 align="center">Odoo Developer | Python & Bash Enthusiast | Building Smart Automations</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=duvandevs&label=Profile%20views&color=0e75b6&style=flat" alt="duvandevs" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duvanzavaleta)
-[<img src="https://img.shields.io/github/followers/duvandevs?label=follow&style=social" height="22" title="Follow me" />](https://github.com/duvandevs)  
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 💻 Currently working on **Odoo custom modules & automations**
 
-My name is **Duvan Zavaleta**, I’m a software developer from **Mexico** with over 4 years of experience working with **Odoo**. I specialize in ERP customization, backend development with Python, and database management using PostgreSQL.
+- 🐧 Exploring **Bash scripting** and **Python utilities**
 
-I'm passionate about improving business processes through automation, building clean and scalable Odoo modules, and exploring open-source technologies. I also enjoy gaming, customizing Linux environments, and learning new tools that improve my workflow.  
-<img height="20" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" />
+- 💬 Ask me about **Odoo | Python | Bash**
+  
+- ⚡ Fun fact **I enjoy mixing business logic with automation scripts**
 
-<img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+</td>
+<td width="50%" align="center">
 
-- 🌱 I’m currently working with  
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" /></code>
-  <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/odoo.svg" title="Odoo" /></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" /></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" /></code>
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-- 💬 Ask me about Odoo development, custom modules, backend logic, automations or Python scripting. I'm always open to learning and sharing knowledge.
+</td>
+</tr>
+</table>
 
-- 📫 How to reach me:  
-  - 💼 [LinkedIn](https://www.linkedin.com/in/duvanzavaleta)  
+---
 
-<img title="My GitHub Stats" align="left" height="320" width="420" src="https://github-readme-stats.vercel.app/api?username=duvandevs&hide=issues&count_private=true&icon_color=714b67&title_color=000000&bg_color=ffffff&show_icons=true" />
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duvandevs&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Duvan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=duvandevs&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-----
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=duvandevs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+</td>
+</tr>
+</table>
 
-Credit: [LeandraOliveiraS](https://github.com/LeandraOliveiraS)
+---
 
-Last Edited on: 21/08/2025
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/duvan-zavaleta/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Leoncio Duvan Zavaleta Moctezuma" height="50" width="50" /></a>
+<a href="https://github.com/duvandevs" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="duvandevs" height="50" width="50" /></a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="bash" width="50" height="50"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="50" height="50"/> </a> 
+<a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/636848?s=200&v=4" alt="odoo" width="50" height="50"/> </a> 
+</p>
+
+---
+
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/duvandevs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duvandevs" /></a></p>
