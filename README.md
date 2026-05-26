@@ -23,7 +23,7 @@ Most of my work has been done in private or company repositories, so I'm current
 
 I'm currently working on `odoo-dev-toolkit`, a personal collection of Odoo developer tools created to simplify daily development tasks and share reusable utilities with other Odoo developers.
 
-First module:
+Modules:
 
 - `odoo_import_template_generator`: generates XLSX import templates from Odoo models and fields.
 
@@ -35,24 +35,6 @@ First module:
 - Report generation
 - API integrations
 - Clean and reusable module structure
-
-## Featured Project
-
-<p align="center">
-  <a href="https://github.com/duvandevs/odoo-dev-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duvandevs&repo=odoo-dev-toolkit&theme=tokyonight" alt="Odoo Dev Toolkit" />
-  </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duvandevs&show_icons=true&theme=tokyonight" alt="Duvan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvandevs&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ## GitHub Activity
 
