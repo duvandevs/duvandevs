@@ -1,49 +1,59 @@
-<p align="center"><picture align="center"><img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture></p>
-<h1 align="center">Hi 👋, I'm Leoncio Duvan Zavaleta Moctezuma</h1>
-<h3 align="center">Odoo Developer | Python & Bash Enthusiast | Building Smart Automations</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=duvandevs&label=Profile%20views&color=0e75b6&style=flat" alt="duvandevs" /> </p>
+# Hi, I'm Duvan
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 💻 Currently working on **Odoo custom modules & automations**
-
-- 🐧 Exploring **Bash scripting** and **Python utilities**
-
-- 💬 Ask me about **Odoo | Python | Bash**
-  
-- ⚡ Fun fact **I enjoy mixing business logic with automation scripts**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-</td>
-</tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/duvan-zavaleta/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Leoncio Duvan Zavaleta Moctezuma" height="50" width="50" /></a>
-<a href="https://github.com/duvandevs" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="duvandevs" height="50" width="50" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Odoo+Developer;Python+%7C+PostgreSQL+%7C+ERP+Tools;Building+useful+tools+for+Odoo+developers" alt="Typing SVG" />
 </p>
 
----
+I'm an Odoo Developer focused on custom modules, ERP workflows, reports and integrations.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" alt="bash" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="50" height="50"/> </a> 
-<a href="https://www.odoo.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/636848?s=200&v=4" alt="odoo" width="50" height="50"/> </a> 
+Most of my work has been done in private or company repositories, so I'm currently building public projects to share useful tools, examples and learning progress.
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
----
+## Current Project
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/duvandevs"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="duvandevs" /></a></p>
+I'm currently working on `odoo-dev-toolkit`, a personal collection of Odoo developer tools created to simplify daily development tasks and share reusable utilities with other Odoo developers.
+
+First module:
+
+- `odoo_import_template_generator`: generates XLSX import templates from Odoo models and fields.
+
+## Focus Areas
+
+- Odoo developer tools
+- Technical administration
+- Import/export utilities
+- Report generation
+- API integrations
+- Clean and reusable module structure
+
+## Featured Project
+
+<p align="center">
+  <a href="https://github.com/duvandevs/odoo-dev-toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duvandevs&repo=odoo-dev-toolkit&theme=tokyonight" alt="Odoo Dev Toolkit" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duvandevs&show_icons=true&theme=tokyonight" alt="Duvan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duvandevs&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## GitHub Activity
+
+A large part of my development work has been done in private/company repositories. This profile is focused on public tools, personal projects and reusable examples.
