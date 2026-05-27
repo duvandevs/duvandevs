@@ -25,7 +25,7 @@ I'm currently working on `odoo-dev-toolkit`, a personal collection of Odoo devel
 
 Modules:
 
-- `odoo_import_template_generator`: generates XLSX import templates from Odoo models and fields.
+- `quick_module_updater_dz`: Allow to update any installed module from the current view.
 
 ## Focus Areas
 
